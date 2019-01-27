@@ -1,0 +1,17 @@
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\WebUser_Test.deps.json
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\WebUser_Test.runtimeconfig.json
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\WebUser_Test.runtimeconfig.dev.json
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\WebUser_Test.dll
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\WebUser_Test.pdb
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\obj\Debug\netcoreapp2.2\WebUser_Test.csprojAssemblyReference.cache
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\obj\Debug\netcoreapp2.2\WebUser_Test.csproj.CoreCompileInputs.cache
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\obj\Debug\netcoreapp2.2\WebUser_Test.AssemblyInfoInputs.cache
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\obj\Debug\netcoreapp2.2\WebUser_Test.AssemblyInfo.cs
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\obj\Debug\netcoreapp2.2\WebUser_Test.dll
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\obj\Debug\netcoreapp2.2\WebUser_Test.pdb
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\WebUsers.dll
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\bin\Debug\netcoreapp2.2\WebUsers.pdb
+D:\Users\900005156\Documents\holanda\webapp\WebUsers\WebUser_Test\obj\Debug\netcoreapp2.2\WebUser_Test.csproj.CopyComplete

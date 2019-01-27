@@ -1,0 +1,14 @@
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\bin\Release\netcoreapp2.2\WebUsers.deps.json
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\bin\Release\netcoreapp2.2\WebUsers.runtimeconfig.json
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\bin\Release\netcoreapp2.2\WebUsers.runtimeconfig.dev.json
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\bin\Release\netcoreapp2.2\WebUsers.dll
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\bin\Release\netcoreapp2.2\WebUsers.pdb
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.csprojAssemblyReference.cache
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.csproj.CoreCompileInputs.cache
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.RazorAssemblyInfo.cache
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.RazorAssemblyInfo.cs
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.AssemblyInfoInputs.cache
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.AssemblyInfo.cs
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.RazorTargetAssemblyInfo.cache
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.dll
+D:\Users\900005156\Documents\holanda\webapp\webUsers\WebUsers\obj\Release\netcoreapp2.2\WebUsers.pdb
